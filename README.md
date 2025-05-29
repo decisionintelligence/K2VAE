@@ -1,6 +1,6 @@
 # K<sup>2 </sup>VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting
 
-**This code is the official PyTorch implementation of our ICML'25  SpotLight Paper: K<sup>2 </sup>VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting**
+**This code is the official PyTorch implementation of our ICML'25  Spotlight Paper: K<sup>2 </sup>VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting**
 
 [![ICML](https://img.shields.io/badge/ICML'25-K2VAE-orange)](https://github.com/decisionintelligence/K2VAE?tab=readme-ov-file)  [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/)  ![Stars](https://img.shields.io/github/stars/decisionintelligence/K2VAE)  [![Visits Badge](https://badges.pufler.dev/visits/decisionintelligence/K2VAE)](https://badges.pufler.dev/visits/decisionintelligence/K2VAE)
 
