@@ -102,8 +102,8 @@ If you find this repo useful, please cite our paper.
 
 ```
 @inproceedings{wu2025k2vae,
-  title     = {K${}^2$VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting},
-  author    = {Wu, Xingjian and Qiu, Xiangfei and Gao, Hongfan and Hu, Jilin and Guo, Chenjuan and Yang, Bin},
+  title     = {{K${}^2$VAE}: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting},
+  author    = {Wu, Xingjian and Qiu, Xiangfei and Gao, Hongfan and Hu, Jilin and Yang, Bin and Guo, Chenjuan},
   booktitle = {ICML},
   year      = {2025}
 }
