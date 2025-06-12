@@ -166,5 +166,4 @@ cython_debug/
 #.idea/
 
 log/
-datasets/
 .vscode/
